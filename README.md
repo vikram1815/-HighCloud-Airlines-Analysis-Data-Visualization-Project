@@ -1,6 +1,7 @@
 # -HighCloud-Airlines-Analysis-Data-Visualization-Project
 📊 Built using: Microsoft Excel | Power BI | Tableau | SQL |
-🧠 Project Overview
+
+# 🧠 Project Overview
 
 The HighCloud Airlines Analysis project provides a comprehensive view of airline performance metrics using real-world operational data.
 This project was developed across three business intelligence tools — Excel, Power BI, and Tableau — to compare how each platform handles data visualization, KPI reporting, and interactivity.
